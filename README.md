@@ -13,8 +13,13 @@ The project uses a Yelp dataset which includes text reviews and their correspond
 ## How to Run
 You can clone the repository and open the solution in Visual Studio. Make sure you have the .NET Core SDK installed.
 
+## Example output
+
+![image](https://github.com/JoshuaPeddle/ML.NET_example_1/assets/37007232/ed9b4080-ad97-48e3-a81d-74e3a53e4e27)
+
 ## Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 CC0
+
