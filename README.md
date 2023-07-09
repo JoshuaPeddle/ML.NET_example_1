@@ -1,5 +1,6 @@
 # Sentiment Analysis Classifier with ML.NET
 This repository contains a sentiment analysis classifier built using ML.NET's Model Builder. The application classifies Yelp reviews into positive and negative sentiments.
+Based off of [this](https://dotnet.microsoft.com/en-us/learn/ml-dotnet/get-started-tutorial/intro) tutorial. Modified in places.
 
 ## About
 The project uses a Yelp dataset which includes text reviews and their corresponding sentiment labels (1 for positive and 0 for negative). The model predicts whether a review is positive or negative based on the review's text. This type of problem is a typical binary classification task.
